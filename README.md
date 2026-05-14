@@ -1,11 +1,6 @@
-# Rate Limiting Systems — Python Assignment
+# Rate Limiting Systems 
 
 In this assignment you will implement two classic rate limiting algorithms from scratch using Python.
-
-## What is rate limiting?
-
-Rate limiting controls how many requests a client can make in a given time window.
-It protects servers from being overwhelmed and ensures fair access for all users.
 
 ---
 
@@ -42,24 +37,4 @@ pytest task2_token_bucket/
 
 ---
 
-## How to submit
 
-1. Fill in your solution in each `solution.py` file
-2. Make sure **all tests pass** with `pytest`
-3. Push your code to GitHub
-
----
-
-## Grading
-
-- Each passing test = points
-- All tests green = full marks
-- Partial credit is given for partially passing tests
-
----
-
-## Rules
-
-- You may **not** modify any `test_solution.py` file
-- You may **not** use any external libraries — only the Python standard library
-- Each task must be solved independently
