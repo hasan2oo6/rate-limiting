@@ -21,9 +21,6 @@ Each folder contains:
 ## Setup
 
 ```bash
-# Make sure you have Python 3.8+
-python --version
-
 # Install pytest
 pip install pytest
 
